@@ -1,1 +1,1 @@
-# cmeans-fuzzy-ts-forecast
+# kmeans-fuzzy-ts-forecast
